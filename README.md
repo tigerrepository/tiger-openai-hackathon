@@ -18,7 +18,7 @@ Windows and Linux are the preferred operating systems for the hack event. They'r
 
 ### Python Environment
 
-Python version **3.9** needs to be installed on the local machine used for the hack. Refer to the instructions below to install Miniconda and create a Python 3.9 environment.
+Python version **3.10** needs to be installed on the local machine used for the hack.
 
 
 pyodbc==5.1.0
