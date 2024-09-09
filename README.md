@@ -20,8 +20,8 @@ Windows and Linux are the preferred operating systems for the hack event. They'r
 
 Python version **3.9** needs to be installed on the local machine used for the hack. Refer to the instructions below to install Miniconda and create a Python 3.9 environment.
 
-### Pre-req
-1.pyodbc==5.1.0
+
+pyodbc==5.1.0
   python-dotenv==1.0.1
   pandas==2.2.2
   openai==1.34.0
@@ -30,9 +30,9 @@ Python version **3.9** needs to be installed on the local machine used for the h
   azure-core==1.30.2
   azure-search-documents==11.6.0b4
 
-2.The Microsoft ODBC 18 driver
+**2.The Microsoft ODBC 18 driver**
 
-3.Azure Data Studio (optional)
+**3.Azure Data Studio (optional)**
 
 ### VSCode
 
