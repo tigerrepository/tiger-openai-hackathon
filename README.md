@@ -32,7 +32,7 @@ pyodbc==5.1.0
 
 ### The Microsoft ODBC 18 driver
 
-**Azure Data Studio (optional)**
+### Azure Data Studio (optional)
 
 ### VSCode
 
