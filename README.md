@@ -10,7 +10,7 @@ solution. We hope you have a rewarding experience during the hack event.
 
 ### Azure Account
 
-An Azure account is necessary for resources provided in the code. You can use your organization's Azure account if available. If not create one from here: <https://azure.microsoft.com/en-us/free/>
+An Azure account is necessary for resources provided in the code. You can use your organization's Azure account if available or ask from the trainer. If not create one from here: <https://azure.microsoft.com/en-us/free/>
 
 ### Operating System
 
