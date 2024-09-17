@@ -30,7 +30,7 @@ pyodbc==5.1.0
   azure-core==1.30.2
   azure-search-documents==11.6.0b4
 
-**The Microsoft ODBC 18 driver**
+### The Microsoft ODBC 18 driver
 
 **Azure Data Studio (optional)**
 
